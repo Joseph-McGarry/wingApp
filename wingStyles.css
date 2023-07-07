@@ -1,0 +1,34 @@
+body {
+    background-color: orange;
+}
+
+.container {
+    text-align: center;
+    margin-top: 100px;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+    background-color: #7CB9E8;
+}
+
+.wings {
+    display: block;
+    margin: 40px auto; /* Center the image horizontally and add margin at the top */
+    width: 100px;
+    border: 2px solid black; /* Add a border with a solid black color */
+    border-radius: 3px;
+}
+
+p {
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
